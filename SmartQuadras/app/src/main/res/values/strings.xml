@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Quadras</string>
+    <string name="conta">Já Possui Conta? <u>Clique aqui.</u></string>
+    <string name="senha">Esqueceu a senha? <u>Clique aqui.</u></string>
+</resources>
