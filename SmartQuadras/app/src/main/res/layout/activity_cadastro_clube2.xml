@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.internet.smartquadras.CadastroClubeActivity">
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton5"
+        android:layout_gravity="left|top"
+        android:src="@drawable/voltar_icon"
+        android:background="#00ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="180dp"
+        android:id="@+id/imageView5"
+        android:src="@drawable/usuario"
+        android:layout_alignTop="@+id/imageButton5"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton6"
+        android:src="@drawable/menuselect"
+        android:background="#00ffffff"
+        android:layout_alignTop="@+id/imageView5"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alterar foto"
+        android:id="@+id/textView2"
+        android:textSize="17dp"
+        android:textColor="#224acc"
+        android:layout_below="@+id/imageView5"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="Usuario"
+        android:id="@+id/button7"
+        android:background="@drawable/entrar_cadastrar"
+        android:textColor="#ffffff"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@+id/button8" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="Clube"
+        android:id="@+id/button8"
+        android:background="@drawable/entrar_cadastrar"
+        android:textColor="#ffffff"
+        android:layout_alignTop="@+id/button7"
+        android:layout_toStartOf="@+id/button9" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="Quadra"
+        android:id="@+id/button9"
+        android:background="@drawable/entrar_cadastrar"
+        android:textColor="#ffffff"
+        android:layout_alignTop="@+id/button8"
+        android:layout_toEndOf="@+id/textView2" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/editText9"
+        android:textColorHint="#000000"
+        android:autoText="true"
+        android:elegantTextHeight="false"
+        android:hint="Email"
+        android:textAlignment="center"
+        android:text="Nome do Clube"
+        android:layout_below="@+id/button7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/editText10"
+        android:textColorHint="#000000"
+        android:autoText="true"
+        android:elegantTextHeight="false"
+        android:hint="Email"
+        android:textAlignment="center"
+        android:text="Qual esporte do Clube"
+        android:layout_below="@+id/editText9"
+        android:layout_alignStart="@+id/editText9" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="Pronto"
+        android:id="@+id/button10"
+        android:background="@drawable/entrar_cadastrar"
+        android:textColor="#ffffff"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/editText10"
+        android:layout_alignStart="@+id/editText10" />
+
+</RelativeLayout>

@@ -9,9 +9,9 @@
         android:layout_width="300dp"
         android:layout_height="180dp"
         android:id="@+id/logo_img"
+        android:src="@drawable/logo"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:src="@drawable/logo"/>
+        android:layout_centerHorizontal="true" />
 
     <ImageButton
         android:layout_width="50dp"
@@ -66,5 +66,15 @@
         android:clickable="true"
         android:hint="@string/conta"
         android:textColorHint="#224acc" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton2"
+        android:layout_gravity="left|top"
+        android:src="@drawable/voltar_icon"
+        android:background="#00ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>

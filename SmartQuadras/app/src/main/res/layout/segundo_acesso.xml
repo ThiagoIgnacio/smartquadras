@@ -9,9 +9,9 @@
         android:layout_width="300dp"
         android:layout_height="180dp"
         android:id="@+id/imageView"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:src="@drawable/logo"/>
+        android:src="@drawable/logo"
+        android:layout_below="@+id/menu_btn"
+        android:layout_centerHorizontal="true" />
 
     <ImageButton
         android:layout_width="50dp"
@@ -74,7 +74,7 @@
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Lembrar de min"
+        android:text="Lembrar "
         android:id="@+id/lembrar_check"
         android:checked="true"
         android:layout_alignTop="@+id/entrar_btn"
