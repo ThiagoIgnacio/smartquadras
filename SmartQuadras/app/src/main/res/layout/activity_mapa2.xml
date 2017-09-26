@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.internet.smartquadras.MapaActivity">
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton9"
+        android:src="@drawable/menuselect"
+        android:background="#00ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton10"
+        android:layout_gravity="left|top"
+        android:src="@drawable/voltar_icon"
+        android:background="#00ffffff"
+        android:layout_alignBottom="@+id/imageButton9"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="180dp"
+        android:id="@+id/imageView7"
+        android:src="@drawable/usuario"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alterar foto"
+        android:id="@+id/textView4"
+        android:textSize="17dp"
+        android:textColor="#224acc"
+        android:layout_below="@+id/imageView7"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="Quadras"
+        android:id="@+id/button15"
+        android:background="@drawable/entrar_cadastrar"
+        android:textColor="#ffffff"
+        android:layout_alignTop="@+id/button16"
+        android:layout_alignStart="@+id/imageView7" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="Pesquisar Por:"
+        android:id="@+id/button16"
+        android:background="@drawable/entrar_cadastrar"
+        android:textColor="#ffffff"
+        android:layout_centerVertical="true"
+        android:layout_alignEnd="@+id/imageView7" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="Sair"
+        android:id="@+id/button17"
+        android:background="@drawable/entrar_cadastrar"
+        android:textColor="#ffffff"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button15" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="Pesquisar"
+        android:id="@+id/button18"
+        android:background="@drawable/entrar_cadastrar"
+        android:textColor="#ffffff"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button16" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@color/abc_search_url_text_normal"
+        android:text="@string/abc_activitychooserview_choose_application"
+        android:id="@+id/textView7"
+        android:layout_marginTop="74dp"
+        android:textColor="#ccf5ac"
+        android:textColorHighlight="#ccf5ac"
+        android:textColorHint="#ccf5ac"
+        android:layout_below="@+id/button15"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

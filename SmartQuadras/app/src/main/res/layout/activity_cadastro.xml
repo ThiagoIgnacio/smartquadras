@@ -94,7 +94,7 @@
         android:layout_marginRight="10dp"
         android:focusable="false"
         android:enabled="true"
-        android:background="#f"
+        android:background="#ffffff"
         android:layout_alignBottom="@+id/button2"
         android:layout_alignStart="@+id/editText4" />
 

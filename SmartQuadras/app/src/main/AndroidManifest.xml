@@ -18,7 +18,9 @@
         <activity android:name=".CadastroActivity" />
         <activity android:name=".CadastroUsuarioActivity" />
         <activity android:name=".CadastroClubeActivity" />
-        <activity android:name=".CadastroQuadraActivity"></activity>
+        <activity android:name=".CadastroQuadraActivity"/>
+        <activity android:name=".MapaActivity" />
+        <activity android:name=".MapaBuscaActivity"></activity>
     </application>
 
 </manifest>

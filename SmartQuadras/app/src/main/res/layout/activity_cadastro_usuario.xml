@@ -53,8 +53,8 @@
         android:id="@+id/button3"
         android:background="@drawable/entrar_cadastrar"
         android:textColor="#ffffff"
-        android:layout_centerVertical="true"
-        android:layout_alignStart="@+id/imageView4" />
+        android:layout_alignTop="@+id/button4"
+        android:layout_alignParentStart="true" />
 
     <Button
         android:layout_width="100dp"
@@ -63,8 +63,8 @@
         android:id="@+id/button4"
         android:background="@drawable/entrar_cadastrar"
         android:textColor="#ffffff"
-        android:layout_above="@+id/editText5"
-        android:layout_toStartOf="@+id/button5" />
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="100dp"
@@ -73,8 +73,8 @@
         android:id="@+id/button5"
         android:background="@drawable/entrar_cadastrar"
         android:textColor="#ffffff"
-        android:layout_alignTop="@+id/button4"
-        android:layout_alignEnd="@+id/imageView4" />
+        android:layout_above="@+id/editText5"
+        android:layout_alignEnd="@+id/imageButton" />
 
     <EditText
         android:layout_width="wrap_content"

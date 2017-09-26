@@ -24,8 +24,8 @@
         android:layout_height="180dp"
         android:id="@+id/imageView6"
         android:src="@drawable/usuario"
-        android:layout_alignTop="@+id/imageButton7"
-        android:layout_alignEnd="@+id/button13" />
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 
     <ImageButton
         android:layout_width="50dp"
@@ -53,8 +53,8 @@
         android:id="@+id/button11"
         android:background="@drawable/entrar_cadastrar"
         android:textColor="#ffffff"
-        android:layout_centerVertical="true"
-        android:layout_alignStart="@+id/imageView6" />
+        android:layout_alignTop="@+id/button12"
+        android:layout_alignParentStart="true" />
 
     <Button
         android:layout_width="100dp"
@@ -63,7 +63,7 @@
         android:id="@+id/button12"
         android:background="@drawable/entrar_cadastrar"
         android:textColor="#ffffff"
-        android:layout_centerVertical="true"
+        android:layout_below="@+id/textView3"
         android:layout_centerHorizontal="true" />
 
     <Button
@@ -73,62 +73,110 @@
         android:id="@+id/button13"
         android:background="@drawable/entrar_cadastrar"
         android:textColor="#ffffff"
-        android:layout_centerVertical="true"
-        android:layout_toEndOf="@+id/button12" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="textEmailAddress"
-        android:ems="10"
-        android:id="@+id/editText11"
-        android:textColorHint="#000000"
-        android:autoText="true"
-        android:elegantTextHeight="false"
-        android:hint="Email"
-        android:textAlignment="center"
-        android:text="Preço do Aluguel"
-        android:layout_below="@+id/button11"
-        android:layout_centerHorizontal="true" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="textEmailAddress"
-        android:ems="10"
-        android:id="@+id/editText12"
-        android:textColorHint="#000000"
-        android:autoText="true"
-        android:elegantTextHeight="false"
-        android:hint="Email"
-        android:textAlignment="center"
-        android:text="Horario para Aluguel"
-        android:layout_below="@+id/editText11"
-        android:layout_alignStart="@+id/editText11" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="textEmailAddress"
-        android:ems="10"
-        android:id="@+id/editText13"
-        android:textColorHint="#000000"
-        android:autoText="true"
-        android:elegantTextHeight="false"
-        android:hint="Email"
-        android:textAlignment="center"
-        android:text="Modalidade Esportiva"
-        android:layout_below="@+id/editText12"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignTop="@+id/button12"
+        android:layout_alignEnd="@+id/imageButton8" />
 
     <Button
-        android:layout_width="100dp"
+        android:layout_width="215dp"
         android:layout_height="40dp"
         android:text="Pronto"
         android:id="@+id/button14"
         android:background="@drawable/entrar_cadastrar"
         android:textColor="#ffffff"
         android:layout_alignParentBottom="true"
-        android:layout_alignEnd="@+id/editText13"
-        android:layout_alignStart="@+id/editText13" />
+        android:layout_centerHorizontal="true" />
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="center"
+        android:id="@+id/linearLayout"
+        android:layout_below="@+id/button11"
+        android:layout_alignStart="@+id/button14"
+        android:layout_above="@+id/button14"
+        android:layout_toStartOf="@+id/imageButton8"
+        android:layout_alignEnd="@+id/button14">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/editText15"
+            android:textColorHint="#000000"
+            android:autoText="true"
+            android:elegantTextHeight="false"
+            android:hint="Nome da Quadra"
+            android:textAlignment="center"
+            android:text="Nome da Quadra"
+            android:layout_below="@+id/button11"
+            android:layout_alignStart="@+id/editText11"
+            android:enabled="true" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/editText11"
+            android:textColorHint="#000000"
+            android:autoText="true"
+            android:elegantTextHeight="false"
+            android:textAlignment="center"
+            android:text="Preço do Aluguel"
+            android:layout_below="@+id/editText15"
+            android:layout_alignStart="@+id/editText12"
+            android:hint="Preço do Aluguel" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/editText12"
+            android:textColorHint="#000000"
+            android:autoText="true"
+            android:elegantTextHeight="false"
+            android:hint="Horario para Aluguel"
+            android:textAlignment="center"
+            android:text="Horario para Aluguel"
+            android:layout_below="@+id/editText11"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/editText13"
+            android:textColorHint="#000000"
+            android:autoText="true"
+            android:elegantTextHeight="false"
+            android:hint="Modalidade Esportiva"
+            android:textAlignment="center"
+            android:text="Modalidade Esportiva"
+            android:layout_below="@+id/editText12"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:layout_width="196dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/editText14"
+            android:textColorHint="#000000"
+            android:autoText="true"
+            android:elegantTextHeight="false"
+            android:hint="Email"
+            android:textAlignment="center"
+            android:text="CEP"
+            android:layout_below="@+id/editText13"
+            android:layout_centerHorizontal="true"
+            android:nestedScrollingEnabled="true" />
+
+    </LinearLayout>
+
+
 </RelativeLayout>
