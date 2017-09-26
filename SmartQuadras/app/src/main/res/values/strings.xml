@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Smart Quadras</string>
-    <string name="conta">Já Possui Conta? <u>Clique aqui.</u></string>
-    <string name="senha">Esqueceu a senha? <u>Clique aqui.</u></string>
-    <string name="title_activity_cadastro_clube">CadastroClubeActivity</string>
-    <string name="title_activity_mapa">MapaActivity</string>
-</resources>
