@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SmartQuadras.iml" filepath="$PROJECT_DIR$/SmartQuadras.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/smartquadras.iml" filepath="$PROJECT_DIR$/smartquadras.iml" />
     </modules>
   </component>
 </project>

@@ -1,92 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb0fec8d-f9b5-441e-ac7a-63952517286c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/.idea/runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/androidTest/java/com/example/internet/smartquadras/ApplicationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/androidTest/java/com/example/internet/smartquadras/usuario.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/gen/com/example/internet/smartquadras/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/gen/com/example/internet/smartquadras/Manifest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/gen/com/example/internet/smartquadras/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/java/com/example/internet/smartquadras/CadastroActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/java/com/example/internet/smartquadras/CadastroClubeActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/java/com/example/internet/smartquadras/CadastroQuadraActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/java/com/example/internet/smartquadras/CadastroUsuarioActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/java/com/example/internet/smartquadras/LoginActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/java/com/example/internet/smartquadras/MapaActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/java/com/example/internet/smartquadras/MapaBuscaActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-hdpi/menu_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-hdpi/menu_othercolor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-hdpi/voltar_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-mdpi/menu_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-mdpi/menu_othercolor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-mdpi/voltar_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-xhdpi/menu_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-xhdpi/menu_othercolor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-xhdpi/voltar_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-xxhdpi/menu_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-xxhdpi/menu_othercolor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable-xxhdpi/voltar_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/entrar_cadastrar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/facebookblack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/facebookselect.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/gmail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/gmailblack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/gmailselect.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/menuselect.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/selector_entrar_cadastrar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/sublinhado.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/drawable/usuario.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/layout/activity_cadastro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/layout/activity_cadastro_clube2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/layout/activity_cadastro_quadra.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/layout/activity_cadastro_usuario.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/layout/activity_mapa2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/layout/activity_mapa_busca.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/layout/primeiro_acesso.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/layout/segundo_acesso.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/app/src/test/java/com/example/internet/smartquadras/ExampleUnitTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SmartQuadras/settings.gradle" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
-    <ignored path="smartquadras.iws" />
+    <list default="true" id="9dfe79f8-73f1-433d-89d3-bcd687a42324" name="Default" comment="" />
+    <ignored path="SmartQuadras.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -101,10 +22,37 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="smartquadras" />
+    <favorites_list name="SmartQuadras" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="segundo_acesso.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/segundo_acesso.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.81491">
+              <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="primeiro_acesso.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/primeiro_acesso.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -112,19 +60,19 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="smartquadras" />
+              <option name="name" value="SmartQuadras" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value=":app" />
-                <option name="path" value="$PROJECT_DIR$/app" />
+                <option name="name" value="SmartQuadras" />
+                <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="smartquadras" />
-                <option name="path" value="$PROJECT_DIR$" />
+                <option name="name" value=":app" />
+                <option name="path" value="$PROJECT_DIR$/app" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -137,7 +85,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'smartquadras'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'SmartQuadras'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -146,17 +94,17 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'smartquadras'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'SmartQuadras'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'smartquadras'." />
+                <option name="description" value="Displays all dependencies declared in root project 'SmartQuadras'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'smartquadras'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'SmartQuadras'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -171,22 +119,22 @@
                 <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'smartquadras'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'SmartQuadras'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'smartquadras'." />
+                <option name="description" value="Displays the sub-projects of root project 'SmartQuadras'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'smartquadras'." />
+                <option name="description" value="Displays the properties of root project 'SmartQuadras'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'smartquadras' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'SmartQuadras' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -605,16 +553,6 @@
                 <option name="description" value="Prepare com.android.support:appcompat-v7:23.4.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComAndroidSupportAppcompatV72340Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:design:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportDesign2340Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:recyclerview-v7:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportRecyclerviewV72340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:support-v4:23.4.0" />
@@ -1240,16 +1178,6 @@
                 <option name="name" value="prepareComAndroidSupportAppcompatV72340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:design:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportDesign2340Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:recyclerview-v7:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportRecyclerviewV72340Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:support-v4:23.4.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareComAndroidSupportSupportV42340Library" />
@@ -1442,7 +1370,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4519338744852" />
+        <entry key="$PROJECT_DIR$" value="4517259420000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1625,11 +1553,9 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.4.0/appcompat-v7-23.4.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/23.4.0/design-23.4.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/23.4.0/animated-vector-drawable-23.4.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-vector-drawable/23.4.0/support-vector-drawable-23.4.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.4.0/recyclerview-v7-23.4.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar" />
                           </list>
                         </option>
@@ -1639,7 +1565,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="app" />
+              <option name="name" value="SmartQuadras" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/ant-1.9.3.jar" />
@@ -1716,10 +1642,10 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -1744,20 +1670,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="smartquadras" />
+              <option name="myItemId" value="SmartQuadras" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="smartquadras" />
+              <option name="myItemId" value="SmartQuadras" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SmartQuadras" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SmartQuadras" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1767,6 +1724,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1774,7 +1732,6 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1937,26 +1894,30 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cb0fec8d-f9b5-441e-ac7a-63952517286c" name="Default" comment="" />
-      <created>1506446311482</created>
+      <changelist id="9dfe79f8-73f1-433d-89d3-bcd687a42324" name="Default" comment="" />
+      <created>1507031338836</created>
       <option name="number" value="Default" />
-      <updated>1506446311482</updated>
+      <updated>1507031338836</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34261838" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31661892" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1964,7 +1925,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23997134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1979,11 +1940,43 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/primeiro_acesso.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/segundo_acesso.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.81491">
+          <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
